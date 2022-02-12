@@ -1,0 +1,6 @@
+{
+    "grant_type": "authorization_code",
+    "client_id": "hogehoge",
+    "client_secret": "hugahuga",
+    "redirect_uri": "http://hogehuga"
+}
